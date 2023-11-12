@@ -38,7 +38,7 @@ MongoDB is a document database with the scalability and flexibility that you wan
 
 ## Acknowledgements
 
-- Sort documentation: [MongoDB documentation]https://www.mongodb.com/docs/manual/reference/operator/aggregation/sort/). <br/>
+- Sort documentation: [MongoDB documentation](https://www.mongodb.com/docs/manual/reference/operator/aggregation/sort/) <br/>
 - MongoDB commands: [Devopedia](https://devopedia.org/mongodb-query-language)<br/>
 - Query by datatype: [MongoDB documentation](https://www.mongodb.com/docs/manual/reference/operator/query/type/)<br/> 
 
